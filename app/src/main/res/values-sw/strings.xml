@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MsgApp</string>
+    <string name="btn_show_toast">Onyesha Toast </string>
+    <string name="etView">Ingiza ujumbe wako</string>
+    <string name="btn_move_to_next_activity">Tuma data kwa shughuli inayofuata</string>
+    <string name="btn_share_to_other_apps">Shiriki data kwa programu zingine</string>
+    <string name="btn_recycler_view">Burudani yangu</string>
+
+    <string name="btn_was_clicked">Kitufe kilibadilishwa</string>
+
+    <string name="activity_hobbies_title">Mambo ninayoyapenda</string>
+    <string name="activity_second_title">Shughuli Mpya</string>
+</resources>

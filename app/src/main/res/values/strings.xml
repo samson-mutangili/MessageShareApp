@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">MsgApp</string>
+
+    <string name="btn_show_toast">Show toast</string>
+    <string name="etView">Enter your message</string>
+    <string name="btn_move_to_next_activity">Send data to next activity</string>
+    <string name="btn_share_to_other_apps">Share data to other apps</string>
+    <string name="btn_recycler_view">My hobbies</string>
+
+    <string name="btn_was_clicked">Button was clicked</string>
+
+    <string name="activity_hobbies_title">Hobbies</string>
+    <string name="activity_second_title">New Activity</string>
+    
+</resources>
